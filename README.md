@@ -1,4 +1,4 @@
-- Eu sou Rodrigo Lima Cavalcante, graduado no curso de Licenciatura em Computação pela UFRPE, atualmente cursando Sistemas de Informação pela Estácio(EaD).
+- Eu sou Rodrigo Lima Cavalcante, graduado no curso de Licenciatura em Computação pela UFRPE, atualmente cursando Análise e Desenvolvimento de Sistemas pela Estácio(EaD).
 - Eu tenho interesse em desenvolvimento web, Software livre, IoT, Virtualização, Cloud e quero aprender sobre o universo DevOPs.
 - Atualmente tenho me dedicado aos estudos nas áreas informadas, objetivando sempre o aprendizado, a contribuição e o crescimento pessoal e profissional.
 
