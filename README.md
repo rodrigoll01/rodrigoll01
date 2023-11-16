@@ -8,6 +8,7 @@
 - 👮🏼‍♂️ Pós-graduado em Gestão e Normatização de Trânsito e Transportes.
 - 🧑🏼‍💻 Eu quero colaborar em projetos para adiquirir conhecimento.
 - 🤔 Estou aprendendo DevOps, Engenharia de Dados, Cloud, Python
+- 💻 Perfil no Credly: https://www.credly.com/users/rodrigo-lima-cavalcante/badges
 
 ##
   
