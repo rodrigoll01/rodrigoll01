@@ -1,4 +1,4 @@
-## Olá! Sou o Rodrigo Cavalcante.
+## Olá! Sou o Rodrigo.
 
 <h2 align="left">Informações:</h2>
   
