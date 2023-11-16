@@ -1,4 +1,4 @@
-## Olá! Sou o Rodrigo.
+## Olá!
 
 <h2 align="left">Informações:</h2>
   
