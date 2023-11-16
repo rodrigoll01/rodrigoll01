@@ -2,12 +2,12 @@
 
 <h2 align="left">Informações:</h2>
   
-- 👮🏼‍♂️ Atualmente estou trabalhando como Servidor Público (Agt. de Trânsito)
-- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
+- 👮🏼‍♂️ Servidor Público (Agt. de Trânsito)
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 💻 Graduado pela UFRPE no curso de Licenciatura em Computação
 - 👮🏼‍♂️ Pós-graduado em Gestão e Normatização de Trânsito e Transportes.
-- 🧑🏼‍💻 Eu quero colaborar em projetos para adiquirir conhecimento.
-- 🤔 Estou aprendendo DevOps, Engenharia de Dados, Cloud, Python
+- 🧑🏼‍💻 Quero colaborar em projetos para adiquirir conhecimento.
+- 🤔 Aprendendo DevOps, Engenharia de Dados, Cloud, Python
 - 💻 Perfil no Credly: https://www.credly.com/users/rodrigo-lima-cavalcante/badges
 
 ##
