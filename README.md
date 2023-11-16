@@ -30,14 +30,16 @@
 
 ![rodrigoll01 GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoll01&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoll01&hide_progress=true)
+<div>
+  <a href="[https://github.com/rodrigoll01](https://github.com/rodrigoll01)"> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoll01&layout=compact&langs_count=16&theme=transparent"/>
+</div>
 
 ##
 
 📫 Contatos:
 
 <div>
-  <a href="https://instagram.com/rodrigoll01" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target="_blank">   </a>
   <a href="mailto:tux.mcl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-lima-cavalcante" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white     target="_blank"></a>
   <a href="https://twitter.com/Rodrigoll01" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white target="_blank">   </a>
