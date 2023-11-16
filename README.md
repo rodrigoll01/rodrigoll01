@@ -3,8 +3,9 @@
 <h2 align="left">Informações:</h2>
   
 - 👮🏼‍♂️ Atualmente estou trabalhando como Servidor Público (Agt. de Trânsito)
-- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas - Estácio
+- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
 - 💻 Graduado pela UFRPE no curso de Licenciatura em Computação
+- 👮🏼‍♂️ Pós-graduado em Gestão e Normatização de Trânsito e Transportes.
 - 🧑🏼‍💻 Eu quero colaborar em projetos para adiquirir conhecimento.
 - 🤔 Estou aprendendo DevOps, Engenharia de Dados, Cloud, Python
 
