@@ -2,7 +2,7 @@
 
 <h2 align="left">Informações:</h2>
   
-- Servidor Público (Agt. de Trânsito)
+- Servidor Público
 - Cursando Análise e Desenvolvimento de Sistemas
 - Graduado pela UFRPE no curso de Licenciatura em Computação
 - Pós-graduado em Gestão e Normatização de Trânsito e Transportes.
