@@ -45,3 +45,7 @@
   <a href="https://twitter.com/Rodrigoll01" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white target="_blank">   </a>
 </div>
 
+##
+
+<img align="left" src="https://komarev.com/ghpvc/?username=rodrigoll01&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
